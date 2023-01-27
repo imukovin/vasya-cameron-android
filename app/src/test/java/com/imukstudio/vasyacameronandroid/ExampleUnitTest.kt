@@ -1,4 +1,4 @@
-package com.mukoil.vasyacameronandroid
+package com.imukstudio.vasyacameronandroid
 
 import org.junit.Test
 

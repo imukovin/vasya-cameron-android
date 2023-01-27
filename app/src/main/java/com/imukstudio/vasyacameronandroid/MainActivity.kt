@@ -1,4 +1,4 @@
-package com.mukoil.vasyacameronandroid
+package com.imukstudio.vasyacameronandroid
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
-import com.mukoil.vasyacameronandroid.ui.theme.VasyaCameronAndroidTheme
+import com.imukstudio.vasyacameronandroid.ui.theme.VasyaCameronAndroidTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

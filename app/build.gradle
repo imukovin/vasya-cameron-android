@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mukoil.vasyacameronandroid'
+    namespace 'com.imukstudio.vasyacameronandroid'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.mukoil.vasyacameronandroid"
+        applicationId "com.imukstudio.vasyacameronandroid"
         minSdk 26
         targetSdk 33
         versionCode 1

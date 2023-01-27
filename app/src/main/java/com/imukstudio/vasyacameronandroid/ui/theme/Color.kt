@@ -1,4 +1,4 @@
-package com.mukoil.vasyacameronandroid.ui.theme
+package com.imukstudio.vasyacameronandroid.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
